@@ -1,0 +1,9 @@
+  c:/Users/Shawn/.emacs.d/lisp:
+  total used in directory 14 available 15.1 GiB
+  drwxrwxrwx  1 Shawn None 4096 09-26 10:57 ..
+  drwxrwxrwx  1 Shawn None 4096 09-26 11:05 .
+D -rw-rw-rw-  1 Shawn None 1481 09-26 10:51 init-package.el~
+  -rw-rw-rw-  1 Shawn None 1599 09-26 11:02 init-package.el
+  -rw-rw-rw-  1 Shawn None   31 09-26 11:05 .#init-package.el
+D -rw-rw-rw-  1 Shawn None 1614 09-26 11:06 #init-package.el#
+  -rw-rw-rw-  1 Shawn None  632 09-26 10:38 init-startup.el
