@@ -1,0 +1,4 @@
+#+TITLE: my emacs config
+#+AUTHOR: zhangxin
+
+* My Eamcs Config
